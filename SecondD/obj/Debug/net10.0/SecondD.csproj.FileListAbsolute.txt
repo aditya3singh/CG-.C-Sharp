@@ -1,0 +1,15 @@
+C:\Users\singh\Downloads\.NET\SecondD\bin\Debug\net10.0\SecondD.exe
+C:\Users\singh\Downloads\.NET\SecondD\bin\Debug\net10.0\SecondD.deps.json
+C:\Users\singh\Downloads\.NET\SecondD\bin\Debug\net10.0\SecondD.runtimeconfig.json
+C:\Users\singh\Downloads\.NET\SecondD\bin\Debug\net10.0\SecondD.dll
+C:\Users\singh\Downloads\.NET\SecondD\bin\Debug\net10.0\SecondD.pdb
+C:\Users\singh\Downloads\.NET\SecondD\obj\Debug\net10.0\SecondD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\singh\Downloads\.NET\SecondD\obj\Debug\net10.0\SecondD.AssemblyInfoInputs.cache
+C:\Users\singh\Downloads\.NET\SecondD\obj\Debug\net10.0\SecondD.AssemblyInfo.cs
+C:\Users\singh\Downloads\.NET\SecondD\obj\Debug\net10.0\SecondD.csproj.CoreCompileInputs.cache
+C:\Users\singh\Downloads\.NET\SecondD\obj\Debug\net10.0\SecondD.sourcelink.json
+C:\Users\singh\Downloads\.NET\SecondD\obj\Debug\net10.0\SecondD.dll
+C:\Users\singh\Downloads\.NET\SecondD\obj\Debug\net10.0\refint\SecondD.dll
+C:\Users\singh\Downloads\.NET\SecondD\obj\Debug\net10.0\SecondD.pdb
+C:\Users\singh\Downloads\.NET\SecondD\obj\Debug\net10.0\SecondD.genruntimeconfig.cache
+C:\Users\singh\Downloads\.NET\SecondD\obj\Debug\net10.0\ref\SecondD.dll
