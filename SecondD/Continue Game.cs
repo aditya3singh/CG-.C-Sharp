@@ -17,5 +17,6 @@ class CG
             }
             emy++;
         }
+        Console.WriteLine("Game End");
     }
 }
