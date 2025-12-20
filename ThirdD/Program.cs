@@ -1,5 +1,7 @@
 ﻿using System.Globalization;
 using System.Linq.Expressions;
+using System.Reflection.Metadata;
+using System.Text;
 
 class Program
 {
@@ -19,10 +21,27 @@ class Program
 
         // Console.WriteLine("Balance: " + w.GetBalance());
 
-        int sum1 = Calculator.Add(10, 20);
-        int sum2 = Calculator.Add(10, 20, 30);
+        // int sum1 = Calculator.Add(1, 2);
+        // double sum2 = Calculator.Add(1.1, 2);
 
-        Console.WriteLine(sum1);
-        Console.WriteLine(sum2);
+        // Console.WriteLine(sum1);
+        // Console.WriteLine(sum2);
+
+
+        // ND.Person("Aditya");
+
+        // int result1 = For.Sum(1, 2);
+        // int result2 = For.Sum(1, 2, 3);
+
+        // Console.WriteLine("Sum1 = " + result1);
+        // Console.WriteLine("Sum2 = " + result2);
+
+        // int x = 10;
+        // int a = RF.Ref(x);
+        // System.Console.WriteLine(a);
+
+        // int a = For.Sum(1, 2, 3); 
+        // int b = For.Sum({1,2,3,4,5});
+        LM.Calculate();
     }
 }

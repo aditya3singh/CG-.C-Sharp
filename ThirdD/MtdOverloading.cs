@@ -5,8 +5,10 @@ class Calculator
         return a + b;
     }
 
-    public static int Add(int a, int b, int c)
+    public static double Add(double a, double b)
     {
-        return a + b + c;
+        return a + b;
     }
 }
+
+
