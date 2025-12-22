@@ -1,0 +1,15 @@
+C:\Users\singh\Downloads\.NET\StudentProfileSystem\obj\Debug\net10.0\StudentProfileSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\singh\Downloads\.NET\StudentProfileSystem\obj\Debug\net10.0\StudentProfileSystem.AssemblyInfoInputs.cache
+C:\Users\singh\Downloads\.NET\StudentProfileSystem\obj\Debug\net10.0\StudentProfileSystem.AssemblyInfo.cs
+C:\Users\singh\Downloads\.NET\StudentProfileSystem\obj\Debug\net10.0\StudentProfileSystem.csproj.CoreCompileInputs.cache
+C:\Users\singh\Downloads\.NET\StudentProfileSystem\obj\Debug\net10.0\StudentProfileSystem.sourcelink.json
+C:\Users\singh\Downloads\.NET\StudentProfileSystem\bin\Debug\net10.0\StudentProfileSystem.exe
+C:\Users\singh\Downloads\.NET\StudentProfileSystem\bin\Debug\net10.0\StudentProfileSystem.deps.json
+C:\Users\singh\Downloads\.NET\StudentProfileSystem\bin\Debug\net10.0\StudentProfileSystem.runtimeconfig.json
+C:\Users\singh\Downloads\.NET\StudentProfileSystem\bin\Debug\net10.0\StudentProfileSystem.dll
+C:\Users\singh\Downloads\.NET\StudentProfileSystem\bin\Debug\net10.0\StudentProfileSystem.pdb
+C:\Users\singh\Downloads\.NET\StudentProfileSystem\obj\Debug\net10.0\StudentProfileSystem.dll
+C:\Users\singh\Downloads\.NET\StudentProfileSystem\obj\Debug\net10.0\refint\StudentProfileSystem.dll
+C:\Users\singh\Downloads\.NET\StudentProfileSystem\obj\Debug\net10.0\StudentProfileSystem.pdb
+C:\Users\singh\Downloads\.NET\StudentProfileSystem\obj\Debug\net10.0\StudentProfileSystem.genruntimeconfig.cache
+C:\Users\singh\Downloads\.NET\StudentProfileSystem\obj\Debug\net10.0\ref\StudentProfileSystem.dll
