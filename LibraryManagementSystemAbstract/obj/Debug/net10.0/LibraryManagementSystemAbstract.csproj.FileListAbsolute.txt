@@ -1,0 +1,15 @@
+C:\Users\singh\Downloads\CG-.CHash\LibraryManagementSystemAbstract\bin\Debug\net10.0\LibraryManagementSystemAbstract.exe
+C:\Users\singh\Downloads\CG-.CHash\LibraryManagementSystemAbstract\bin\Debug\net10.0\LibraryManagementSystemAbstract.deps.json
+C:\Users\singh\Downloads\CG-.CHash\LibraryManagementSystemAbstract\bin\Debug\net10.0\LibraryManagementSystemAbstract.runtimeconfig.json
+C:\Users\singh\Downloads\CG-.CHash\LibraryManagementSystemAbstract\bin\Debug\net10.0\LibraryManagementSystemAbstract.dll
+C:\Users\singh\Downloads\CG-.CHash\LibraryManagementSystemAbstract\bin\Debug\net10.0\LibraryManagementSystemAbstract.pdb
+C:\Users\singh\Downloads\CG-.CHash\LibraryManagementSystemAbstract\obj\Debug\net10.0\LibraryManagementSystemAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\singh\Downloads\CG-.CHash\LibraryManagementSystemAbstract\obj\Debug\net10.0\LibraryManagementSystemAbstract.AssemblyInfoInputs.cache
+C:\Users\singh\Downloads\CG-.CHash\LibraryManagementSystemAbstract\obj\Debug\net10.0\LibraryManagementSystemAbstract.AssemblyInfo.cs
+C:\Users\singh\Downloads\CG-.CHash\LibraryManagementSystemAbstract\obj\Debug\net10.0\LibraryManagementSystemAbstract.csproj.CoreCompileInputs.cache
+C:\Users\singh\Downloads\CG-.CHash\LibraryManagementSystemAbstract\obj\Debug\net10.0\LibraryManagementSystemAbstract.sourcelink.json
+C:\Users\singh\Downloads\CG-.CHash\LibraryManagementSystemAbstract\obj\Debug\net10.0\LibraryManagementSystemAbstract.dll
+C:\Users\singh\Downloads\CG-.CHash\LibraryManagementSystemAbstract\obj\Debug\net10.0\refint\LibraryManagementSystemAbstract.dll
+C:\Users\singh\Downloads\CG-.CHash\LibraryManagementSystemAbstract\obj\Debug\net10.0\LibraryManagementSystemAbstract.pdb
+C:\Users\singh\Downloads\CG-.CHash\LibraryManagementSystemAbstract\obj\Debug\net10.0\LibraryManagementSystemAbstract.genruntimeconfig.cache
+C:\Users\singh\Downloads\CG-.CHash\LibraryManagementSystemAbstract\obj\Debug\net10.0\ref\LibraryManagementSystemAbstract.dll
