@@ -4,9 +4,8 @@ class Patient
     public string Name { get; set; }
     public int Age { get; set; }
 
-    private string medicalHistory;
+    private string medicalHistory = ""; // ✅ FIX
 
-    // Default constructor
     public Patient()
     {
         PatientId = 0;
@@ -14,7 +13,6 @@ class Patient
         Age = 0;
     }
 
-    // Parameterized constructor
     public Patient(int id, string name, int age)
     {
         PatientId = id;
@@ -22,7 +20,6 @@ class Patient
         Age = age;
     }
 
-    // Overloaded constructor
     public Patient(int id, string name)
     {
         PatientId = id;

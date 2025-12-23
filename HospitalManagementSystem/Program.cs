@@ -8,8 +8,11 @@
         Doctor d = new Doctor("Dr. Sharma", "Cardiology", "LIC123");
 
         DiagnosisService ds = new DiagnosisService();
+
+        int age = p.Age;
         string condition = "";
-        ds.Evaluate(in p.Age, ref condition, out string risk, 70, 80);
+
+        ds.Evaluate(in age, ref condition, out string risk, 70, 80);
 
         Console.WriteLine($"Condition: {condition}, Risk: {risk}");
 

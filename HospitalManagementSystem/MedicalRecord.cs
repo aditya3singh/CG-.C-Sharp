@@ -1,7 +1,7 @@
 class MedicalRecord
 {
-    private string diagnosis;
-    private string history;
+    private string diagnosis = ""; 
+    private string history = "";  
 
     public void UpdateRecord(string diag, string hist)
     {
