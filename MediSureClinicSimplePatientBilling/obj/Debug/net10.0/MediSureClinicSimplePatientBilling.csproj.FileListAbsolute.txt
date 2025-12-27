@@ -1,0 +1,15 @@
+C:\Users\singh\Downloads\CG-.CHash\MediSureClinicSimplePatientBilling\bin\Debug\net10.0\MediSureClinicSimplePatientBilling.exe
+C:\Users\singh\Downloads\CG-.CHash\MediSureClinicSimplePatientBilling\bin\Debug\net10.0\MediSureClinicSimplePatientBilling.deps.json
+C:\Users\singh\Downloads\CG-.CHash\MediSureClinicSimplePatientBilling\bin\Debug\net10.0\MediSureClinicSimplePatientBilling.runtimeconfig.json
+C:\Users\singh\Downloads\CG-.CHash\MediSureClinicSimplePatientBilling\bin\Debug\net10.0\MediSureClinicSimplePatientBilling.dll
+C:\Users\singh\Downloads\CG-.CHash\MediSureClinicSimplePatientBilling\bin\Debug\net10.0\MediSureClinicSimplePatientBilling.pdb
+C:\Users\singh\Downloads\CG-.CHash\MediSureClinicSimplePatientBilling\obj\Debug\net10.0\MediSureClinicSimplePatientBilling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\singh\Downloads\CG-.CHash\MediSureClinicSimplePatientBilling\obj\Debug\net10.0\MediSureClinicSimplePatientBilling.AssemblyInfoInputs.cache
+C:\Users\singh\Downloads\CG-.CHash\MediSureClinicSimplePatientBilling\obj\Debug\net10.0\MediSureClinicSimplePatientBilling.AssemblyInfo.cs
+C:\Users\singh\Downloads\CG-.CHash\MediSureClinicSimplePatientBilling\obj\Debug\net10.0\MediSureClinicSimplePatientBilling.csproj.CoreCompileInputs.cache
+C:\Users\singh\Downloads\CG-.CHash\MediSureClinicSimplePatientBilling\obj\Debug\net10.0\MediSureClinicSimplePatientBilling.sourcelink.json
+C:\Users\singh\Downloads\CG-.CHash\MediSureClinicSimplePatientBilling\obj\Debug\net10.0\MediSureClinicSimplePatientBilling.dll
+C:\Users\singh\Downloads\CG-.CHash\MediSureClinicSimplePatientBilling\obj\Debug\net10.0\refint\MediSureClinicSimplePatientBilling.dll
+C:\Users\singh\Downloads\CG-.CHash\MediSureClinicSimplePatientBilling\obj\Debug\net10.0\MediSureClinicSimplePatientBilling.pdb
+C:\Users\singh\Downloads\CG-.CHash\MediSureClinicSimplePatientBilling\obj\Debug\net10.0\MediSureClinicSimplePatientBilling.genruntimeconfig.cache
+C:\Users\singh\Downloads\CG-.CHash\MediSureClinicSimplePatientBilling\obj\Debug\net10.0\ref\MediSureClinicSimplePatientBilling.dll
