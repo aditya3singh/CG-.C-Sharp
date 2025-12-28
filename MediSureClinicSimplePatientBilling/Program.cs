@@ -4,10 +4,9 @@ class Program
     static void Main(string[] args)
     {
         bool exit = false;
-
         while (!exit)
         {
-            Console.WriteLine("================== MediSure Clinic Billing ==================");
+            Console.WriteLine("MediSure Clinic Billing");
             Console.WriteLine("1. Create New Bill (Enter Patient Details)");
             Console.WriteLine("2. View Last Bill");
             Console.WriteLine("3. Clear Last Bill");

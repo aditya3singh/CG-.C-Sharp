@@ -88,7 +88,7 @@ class PatientBill
         }
 
         PatientBill bill = LastBill;
-        Console.WriteLine("\n----------- Last Bill -----------");
+        Console.WriteLine("\n Last Bill ");
         Console.WriteLine($"BillId: {bill.BillId}");
         Console.WriteLine($"Patient: {bill.PatientName}");
         Console.WriteLine($"Insured: {(bill.HasInsurance ? "Yes" : "No")}");
@@ -98,7 +98,6 @@ class PatientBill
         Console.WriteLine($"Gross Amount: {bill.GrossAmount:F2}");
         Console.WriteLine($"Discount Amount: {bill.DiscountAmount:F2}");
         Console.WriteLine($"Final Payable: {bill.FinalPayable:F2}");
-        Console.WriteLine("--------------------------------");
     }
 
     public static void ClearLastBill()
