@@ -1,0 +1,15 @@
+C:\Users\singh\Downloads\CG-.CHash\Practices\bin\Debug\net10.0\Practices.exe
+C:\Users\singh\Downloads\CG-.CHash\Practices\bin\Debug\net10.0\Practices.deps.json
+C:\Users\singh\Downloads\CG-.CHash\Practices\bin\Debug\net10.0\Practices.runtimeconfig.json
+C:\Users\singh\Downloads\CG-.CHash\Practices\bin\Debug\net10.0\Practices.dll
+C:\Users\singh\Downloads\CG-.CHash\Practices\bin\Debug\net10.0\Practices.pdb
+C:\Users\singh\Downloads\CG-.CHash\Practices\obj\Debug\net10.0\Practices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\singh\Downloads\CG-.CHash\Practices\obj\Debug\net10.0\Practices.AssemblyInfoInputs.cache
+C:\Users\singh\Downloads\CG-.CHash\Practices\obj\Debug\net10.0\Practices.AssemblyInfo.cs
+C:\Users\singh\Downloads\CG-.CHash\Practices\obj\Debug\net10.0\Practices.csproj.CoreCompileInputs.cache
+C:\Users\singh\Downloads\CG-.CHash\Practices\obj\Debug\net10.0\Practices.sourcelink.json
+C:\Users\singh\Downloads\CG-.CHash\Practices\obj\Debug\net10.0\Practices.dll
+C:\Users\singh\Downloads\CG-.CHash\Practices\obj\Debug\net10.0\refint\Practices.dll
+C:\Users\singh\Downloads\CG-.CHash\Practices\obj\Debug\net10.0\Practices.pdb
+C:\Users\singh\Downloads\CG-.CHash\Practices\obj\Debug\net10.0\Practices.genruntimeconfig.cache
+C:\Users\singh\Downloads\CG-.CHash\Practices\obj\Debug\net10.0\ref\Practices.dll

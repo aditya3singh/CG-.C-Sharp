@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\singh\\Downloads\\CG-.CHash\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\singh\\Downloads\\CG-.CHash\\Day9\\Exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day9\\Exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\singh\\Downloads\\CG-.CHash\\Day9\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day9\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\singh\\Downloads\\CG-.CHash\\Day12\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day12\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\singh\\Downloads\\CG-.CHash\\Day9\\Program.cs",
-              "RelativeDocumentMoniker": "Day9\\Program.cs",
-              "ToolTip": "C:\\Users\\singh\\Downloads\\CG-.CHash\\Day9\\Program.cs",
-              "RelativeToolTip": "Day9\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T06:36:44.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Exception.cs",
-              "DocumentMoniker": "C:\\Users\\singh\\Downloads\\CG-.CHash\\Day9\\Exception.cs",
-              "RelativeDocumentMoniker": "Day9\\Exception.cs",
-              "ToolTip": "C:\\Users\\singh\\Downloads\\CG-.CHash\\Day9\\Exception.cs",
-              "RelativeToolTip": "Day9\\Exception.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\Downloads\\CG-.CHash\\Day12\\Program.cs",
+              "RelativeDocumentMoniker": "Day12\\Program.cs",
+              "ToolTip": "C:\\Users\\singh\\Downloads\\CG-.CHash\\Day12\\Program.cs",
+              "RelativeToolTip": "Day12\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T06:36:27.803Z",
+              "WhenOpened": "2026-01-03T03:59:10.808Z",
               "EditorCaption": ""
             }
           ]
