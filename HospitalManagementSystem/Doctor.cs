@@ -19,4 +19,27 @@ class Doctor
         LicenseNumber = license;
         TotalDoctors++;
     }
+
+
+}
+
+
+class Cardiologist : Doctor
+{
+    public Cardiologist(string name, string spec, string license)
+        : base(name, spec, license)
+    {
+        Console.WriteLine($"Name for the parent: {Name}");
+        Console.WriteLine($"Name for the parent: {Specialization}");
+        Console.WriteLine($"Name for the parent: {LicenseNumber}");
+    }
+
+    public void PrintDetails()
+    {
+        Console.WriteLine($"Total Doctors: {TotalDoctors}");
+        Console.WriteLine($"Name for the parent: {Name}");
+        Console.WriteLine($"Name for the parent: {Specialization}");
+        Console.WriteLine($"Name for the parent: {LicenseNumber}");
+    }
+    
 }

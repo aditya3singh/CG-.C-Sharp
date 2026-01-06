@@ -12,8 +12,10 @@ class Program
         //st.Age = 20;
 
         //Console.WriteLine($"Name: {st.Name}");
-        //Console.WriteLine();
-
-        BankAcc ba = 
+        //Console.WriteLine
+        Console.WriteLine("enter the text: ");
+        int n = int.Parse(Console.ReadLine());
+        Console.WriteLine("The is the value :" + n);
+        Func<int, int> squareLambda = x => x * x; ;
     }
 }

@@ -7,10 +7,10 @@ class Student
     private string name;
     private int age;
     private int marks;
-    private int studentID;
+    private int studentID; 
     private string password;
 
-    public StudentID{get; set;}
+    public int StudentID{get; set;}
     public string Result
     {
         get

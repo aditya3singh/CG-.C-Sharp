@@ -1,0 +1,15 @@
+C:\Users\singh\Downloads\CG-.CHash\DeligatedThings\obj\Debug\net10.0\DeligatedThings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\singh\Downloads\CG-.CHash\DeligatedThings\obj\Debug\net10.0\DeligatedThings.AssemblyInfoInputs.cache
+C:\Users\singh\Downloads\CG-.CHash\DeligatedThings\obj\Debug\net10.0\DeligatedThings.AssemblyInfo.cs
+C:\Users\singh\Downloads\CG-.CHash\DeligatedThings\obj\Debug\net10.0\DeligatedThings.csproj.CoreCompileInputs.cache
+C:\Users\singh\Downloads\CG-.CHash\DeligatedThings\obj\Debug\net10.0\DeligatedThings.sourcelink.json
+C:\Users\singh\Downloads\CG-.CHash\DeligatedThings\bin\Debug\net10.0\DeligatedThings.exe
+C:\Users\singh\Downloads\CG-.CHash\DeligatedThings\bin\Debug\net10.0\DeligatedThings.deps.json
+C:\Users\singh\Downloads\CG-.CHash\DeligatedThings\bin\Debug\net10.0\DeligatedThings.runtimeconfig.json
+C:\Users\singh\Downloads\CG-.CHash\DeligatedThings\bin\Debug\net10.0\DeligatedThings.dll
+C:\Users\singh\Downloads\CG-.CHash\DeligatedThings\bin\Debug\net10.0\DeligatedThings.pdb
+C:\Users\singh\Downloads\CG-.CHash\DeligatedThings\obj\Debug\net10.0\DeligatedThings.dll
+C:\Users\singh\Downloads\CG-.CHash\DeligatedThings\obj\Debug\net10.0\refint\DeligatedThings.dll
+C:\Users\singh\Downloads\CG-.CHash\DeligatedThings\obj\Debug\net10.0\DeligatedThings.pdb
+C:\Users\singh\Downloads\CG-.CHash\DeligatedThings\obj\Debug\net10.0\DeligatedThings.genruntimeconfig.cache
+C:\Users\singh\Downloads\CG-.CHash\DeligatedThings\obj\Debug\net10.0\ref\DeligatedThings.dll

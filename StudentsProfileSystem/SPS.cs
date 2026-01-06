@@ -13,5 +13,5 @@ class SPS
             if(name.Length )
             name = value;}
     }
-    public 
+    
 }

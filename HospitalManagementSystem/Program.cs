@@ -24,5 +24,8 @@
         };
 
         Console.WriteLine($"Total Bill: {bill.CalculateTotal()}");
+
+        Cardiologist c = new Cardiologist("Dr. Mehta", "Cardiology", "LIC456");
+        c.PrintDetails();
     }
 }
